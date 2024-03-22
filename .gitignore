@@ -1,0 +1,17 @@
+# IDE and editor directories
+.idea/
+*.iml
+
+# Java/Maven wrapper scripts
+mvnw
+mvnw.cmd
+.mvn/wrapper/
+
+# Compiled output
+/target/
+
+# OS files
+.DS_Store
+
+# Project-specific files
+HELP.md
