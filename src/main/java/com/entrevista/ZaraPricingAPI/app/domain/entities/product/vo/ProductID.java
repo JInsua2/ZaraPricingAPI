@@ -1,5 +1,5 @@
 package com.entrevista.ZaraPricingAPI.app.domain.entities.product.vo;
 
-public class ProductID {
+public record ProductID(int productID) {
 
 }
